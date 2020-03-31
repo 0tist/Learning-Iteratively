@@ -3,10 +3,10 @@ toc: true
 layout: post
 description: A Series of Blog posts to share my learnings and insights during the Fast.ai course v4, hoping to help fellow learners. :)
 categories: [markdown]
-title: Learning Iteratively
+title: Iteration: 0
 
 ---
-# Iteration: 0
+# Introduction
 
 >"Our intelligence is what makes us human, and AI is an extension of that quality."   
 --- Yann LeCun, Professor  NYU
