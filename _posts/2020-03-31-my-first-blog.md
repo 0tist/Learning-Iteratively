@@ -51,5 +51,5 @@ Being on a lockdown rather proved to be helpful as it would be a tedious task to
 Will try to make best out of the opportunity and will update you guys on my upcoming posts soon!
 stay indoors, stay safe, take care :)
 
-*PS:* Special mention to the amazing community of Fastai and their support on the forums, they are a constant help and will support you throughout your journey in the fastai, there are walkthroughs of the fastai code repository available on the youtube, which I will try to include whenever necessary  
+*PS:* Special mention to the amazing community of Fastai and their support on the forums, they are a constant help and will support you throughout your journey in the fastai, there are walkthroughs of the fastai code repository available on the youtube, which I will try to include whenever necessary.
 
