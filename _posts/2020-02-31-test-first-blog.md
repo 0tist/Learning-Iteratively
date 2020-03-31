@@ -1,9 +1,10 @@
-
+---
 toc: true
 layout: post
 description: A Series of Blog posts to share my learnings and insights during the Fast.ai course v4, hoping to help fellow learners. :)
 categories: [markdown]
 title: An Example Markdown Post
+
 ---
 # Example Markdown Post
 
