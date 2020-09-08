@@ -1,3 +1,9 @@
+---
+layout: page
+title: About Me
+permalink: /about/
+---
+
 ## Hey ! How you doing? This is Jayesh Vasudeva
  
  # Who am I?
