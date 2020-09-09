@@ -19,7 +19,7 @@ I'm always open to discussions and sharing resources to know more about Deep Lea
 Anyway, thank you for stopping by. Reach me
 Instagram: @jay.not.j
 Twitter: @VasudevaJayesh
-Wish to collaborate? reach me @ jayesh0vasudeva@gmail.com or [LinkedIn](https://www.linkedin.com/in/jayesh-vasudeva-2395a218a/)
+Wish to collaborate? reach me @ [Gmail](jayesh0vasudeva@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jayesh-vasudeva-2395a218a/)
 
 Also, check out my [resume]()
 
