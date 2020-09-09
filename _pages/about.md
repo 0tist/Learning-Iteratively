@@ -9,7 +9,7 @@ permalink: /about/
  # Who am I?
  I'm an undergraduate student at Netaji Subhas University of technology(erstwhile Netaji Subhas Institue of technology). I am on a self-learning journey to absorb as much as I can about the Data science, Deep Learning and Software development on general. I spent most of my days reading reearch papers and related codes on GitHub,as a result I developed an interest in Research and Development. I'm always interested in taking on new projects and participating on online contests and events, besides that I'm an active member of IEEE Delhi Section and Computer Science Chapter chair at IEEE NSUT student chapter. We as a team, are constantly looking up for new open source projects and resources to develop and contribute in amazing projects.
  <b> I love mathematics and Software </b> and their intersection is beatiful.
-![]({{site.baseurl}}/images/profile_pic.jpg) 
+![]({{site.baseurl}}/images/profile_pic.png) 
 
 # What am I upto these days?
 I'm currently mid-level api of [fastai](https://github.com/fastai/fastai) as a personal project, besides that I'm researching on various contact-tracing methods and predicting Hotspots/red-zone areas in India and also trying to develop a novel method to produce cancelable biometrics. I am actively contributing to [fastai](https://github.com/fastai/fastai) and [NumCpp](https://github.com/dpilger26/NumCpp) and looking for contributing in similar projects.
