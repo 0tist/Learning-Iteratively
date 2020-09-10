@@ -16,10 +16,12 @@ I'm currently mid-level api of [fastai](https://github.com/fastai/fastai) as a p
 
 
 I'm always open to discussions and sharing resources to know more about Deep Learning and work on some interesting projects or maybe exchange ideas!
-Anyway, thank you for stopping by. Reach me
+Anyway, thank you for stopping by.
+<br>
 Instagram: @jay.not.j
 Twitter: @VasudevaJayesh
-Wish to collaborate? reach me @ [Gmail](jayesh0vasudeva@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jayesh-vasudeva-2395a218a/)
+
+Wish to collaborate? mail me at jayesh0vasudeva@gmail.com or [LinkedIn](https://www.linkedin.com/in/jayesh-vasudeva-2395a218a/)
 
 Also, check out my [resume]()
 
